@@ -42,11 +42,11 @@ A curated list of generic terms used in programming.
 
 **Classes**: `Route`, `Chan`, `Channel`
 
-#### Collections
+### Collections
 
 **Classes**: `Collection`, `Group`, `Vector`, `[TYPE]s` (`Items`, `Images`), `Container`
 
-#### Other Structures
+### Other Structures
 
 **Classes**: `Node`, `Tree`
 
