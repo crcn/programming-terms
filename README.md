@@ -1,4 +1,4 @@
-A curated list of terms used in programming. 
+A curated list of generic terms used in programming. 
 
 ## Class names
 
