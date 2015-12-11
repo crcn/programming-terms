@@ -14,7 +14,7 @@ Entity, Symbol
 
 > An object which transfers a message between a sender & a receiver
 
-**Classes**: Notifier, Dispatcher, Bus, EventBus, MessageBus, Conductor, Router 
+**Classes**: `Notifier`, `Dispatcher`, `Bus`, `EventBus`, `MessageBus`, `Conductor`, `Router` 
 <br /> **Emit Methods**: notify, emit, dispatch, execute, send
 <br /> **Listen Methods**: on, addReceiver, addListener
 
