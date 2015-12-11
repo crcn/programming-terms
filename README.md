@@ -36,7 +36,7 @@ This is a compiled
 
 > An object which can receive messages from another object (observable, mediator)
 
-**Classes**: `Observer`, `EventListener`, `MessageListener`
+**Classes**: `Observer`, `EventListener`, `MessageListener`, `Listener`, `EventHandler`, `MessageHandler`
 
 #### Route
 
