@@ -1,4 +1,4 @@
-This is a compiled list of words, and their synonyms in programming terms. 
+This is a curated list of terms, meanings, and synonyms. May it be a useful guide for helping you write obvious code in whatever you're working in.
 
 ## Class names
 
