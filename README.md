@@ -4,7 +4,7 @@ This is a compiled list of words to help you name things.
 
 #### Object
 
-> A representation of something
+> Some thing
 
 **Classes**: `Entity`, `Symbol`, `Actor`, `Item`, `Artifact`
 
