@@ -1,3 +1,4 @@
+
 ## Class names
 
 #### Object
@@ -50,4 +51,4 @@
 
 #### initialize
 
-`initialize`, `bootstrap`, `init`, `construct`, `configure`
+`initialize`, `bootstrap`, `init`, `construct`, `configure`, `start`
