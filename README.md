@@ -47,7 +47,7 @@ This is a compiled list of words, and their synonyms in programming terms.
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`
+**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`
 
 ## Function names
 
