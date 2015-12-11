@@ -1,4 +1,4 @@
-This is a curated list of terms, meanings, and synonyms. May it be a useful guide for helping you write obvious code in whatever you're working in.
+A curated list of terms used in programming. 
 
 ## Class names
 
