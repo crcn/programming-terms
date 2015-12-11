@@ -4,7 +4,7 @@ A curated list of terms used in programming.
 
 #### Object
 
-> Something
+> Some *thing*
 
 **Classes**: `Entity`, `Symbol`, `Actor`, `Item`, `Artifact`
 
