@@ -1,4 +1,4 @@
-This is a compiled list of terms to help you with naming things for you application. I'll typically choose any one of these combinations depending on who I'm working with, the language & platform I'm writing in, and libraries used.
+This is a compiled list of terms to help you with naming things for you application. 
 
 ## OO terms
 
