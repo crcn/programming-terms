@@ -1,11 +1,10 @@
-Just a little cheat sheet for naming things.
+This is a little cheat sheet to help you with naming things for you application. 
 
 #### Object
 
 > A representation of something
 
-Entity, Symbol, Actor, 
-
+Entity, Symbol
 
 #### Mediator
 
@@ -17,11 +16,17 @@ Dispatcher, Em
 
 > The object delivered to a mediator from a sender to a receiver
 
-Notifier, Dispatcher, 
+Notifier, Dispatcher, Bus, EventBus, MessageBus
 
 #### Observable
 
-> An 
+> An object which 
+
+EventEmitter, EventDispatcher, Notifiable, 
 
 
+#### Others
 
+> Other uncategorized names
+
+Model, ValueObject, Controller, Manager, 
