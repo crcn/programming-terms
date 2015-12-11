@@ -1,4 +1,4 @@
-This is a compiled list of terms to help you with naming things for you application. 
+This is a compiled list of words to help you name things.
 
 ## Class names
 
