@@ -2,13 +2,13 @@ A curated list of terms used in programming.
 
 ## Class names
 
-#### Object
+### Object
 
 > Some *thing*
 
 **Classes**: `Entity`, `Symbol`, `Actor`, `Item`, `Artifact`
 
-#### Mediator
+### Mediator
 
 > An object which transfers a message between a sender & a receiver
 
@@ -16,7 +16,7 @@ A curated list of terms used in programming.
 <br /> **Emit Methods**: `notify`, `emit`, `dispatch`, `execute`, `send`
 <br /> **Listen Methods**: `on`, `addReceiver`, `addListener`
 
-#### Event
+### Event
 
 > An object which contains a payload emitted from another object
 
@@ -24,7 +24,7 @@ A curated list of terms used in programming.
 <br /> **Type Properties**: `type`, `name`, `action`
 <br /> **Payload Properties**: `data`, `body`, `payload`, `message`
 
-#### Observable
+### Observable
 
 > An object which can be listened to for events
 
@@ -32,18 +32,18 @@ A curated list of terms used in programming.
 <br /> **Listen Methods**: `observe`, `addListener`, `addEventListener`, `on`
 <br /> **Unlisten Methods**: `off`, `removeListener`, `removeEventListener`
 
-#### Observer
+### Observer
 
 > An object which can receive messages from another object (observable, mediator)
 
 **Classes**: `Observer`, `EventListener`, `MessageListener`, `Listener`, `EventHandler`, `MessageHandler`, `Consumer`, `Receiver`
 
-#### Route
+### Route
 
 **Classes**: `Route`, `Chan`, `Channel`
 
 
-#### Others
+### Others
 
 > Other uncategorized names
 
@@ -51,14 +51,14 @@ A curated list of terms used in programming.
 
 ## Function names
 
-#### transform
+### transform
 
 `transform`, `map`, `coerce`, `alter`, `convert`, `mutate`, `morph`
 
-#### initialize
+### initialize
 
 `initialize`, `bootstrap`, `init`, `construct`, `configure`, `start`
 
-#### find
+### find
 
 `query`, `search`
