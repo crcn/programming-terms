@@ -47,7 +47,7 @@ A curated list of terms used in programming.
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`
+**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`, `Container`, `Store`, `Root`, `Base`, `Abstract`
 
 ## Function names
 
