@@ -1,4 +1,4 @@
-This is a compiled list of terms to help you with naming things for you application. 
+This is a compiled list of terms to help you with naming things for you application. I'll typically choose any one of these combinations depending on who I'm working with, the language & platform I'm writing in, and libraries used.
 
 ## OO terms
 
@@ -14,25 +14,37 @@ Entity, Symbol
 
 > An object which transfers a message between a sender & a receiver
 
-Notifier, Dispatcher, Bus, EventBus, MessageBus, Conductor
+Classes: Notifier, Dispatcher, Bus, EventBus, MessageBus, Conductor, Router
+Emit Methods: notify, emit, dispatch, execute, send
+Listen Methods: on, addReceiver, addListener
 
-#### Message
+#### Event
 
-> The object delivered to a mediator from a sender to a receiver
+> An object which contains a payload emitted from another object
 
-Message, Event, Envelop, Action
+Classes: Message, Event, Envelop, Action
+Type Properties: type, name, action
+Payload Properties: data, body, payload, message
 
 #### Observable
 
-> An object which 
+> An object which can be listened to for events
 
-Observable, EventEmitter, EventDispatcher, Notifiable, 
+Classes: Observable, EventEmitter, EventDispatcher, Notifiable
+Listen Methods: observe, addListener, addEventListener, on
+Unlisten Methods: off, removeListener, removeEventListener
+
+#### Observer
+
+> An object which can receive messages from another object (observable, mediator)
+
+Classes: Observer, EventListener, MessageListener
 
 #### Others
 
 > Other uncategorized names
 
-Model, ValueObject, Controller, Manager, Actor, DataTransferObject, DisplayObject
+Nouns: Model, ValueObject, Controller, Manager, Actor, DataTransferObject, DisplayObject, Service, Facade, Adapter
 
 ## Functional Terms
 
