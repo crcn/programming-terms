@@ -20,7 +20,7 @@ This is a compiled
 
 > An object which contains a payload emitted from another object
 
-**Classes**: `Message`, `Event`, `Envelop`, `Action`
+**Classes**: `Message`, `Event`, `Envelop`, `Action`, `Command`
 <br /> **Type Properties**: `type`, `name`, `action`
 <br /> **Payload Properties**: `data`, `body`, `payload`, `message`
 
