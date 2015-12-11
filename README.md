@@ -47,7 +47,7 @@ This is a compiled
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Consumer`
+**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`
 
 ## Function names
 
