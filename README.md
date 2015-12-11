@@ -1,3 +1,4 @@
+This is a compiled
 
 ## Class names
 
@@ -36,6 +37,10 @@
 > An object which can receive messages from another object (observable, mediator)
 
 **Classes**: `Observer`, `EventListener`, `MessageListener`
+
+#### Route
+
+**Classes**: `Route`, `Chan`, `Channel`
 
 #### Others
 
