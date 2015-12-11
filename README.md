@@ -1,5 +1,3 @@
-This is a compiled list of words to help you name things.
-
 ## Class names
 
 #### Object
