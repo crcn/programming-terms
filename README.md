@@ -42,12 +42,19 @@ A curated list of terms used in programming.
 
 **Classes**: `Route`, `Chan`, `Channel`
 
+#### Collections
+
+**Classes**: `Collection`, `Group`, `Vector`, `[TYPE]s` (`Items`, `Images`), `Container`
+
+#### Other Structures
+
+**Classes**: `Node`, `Tree`
 
 ### Others
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `ActiveRecord`, `Record`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`, `Container`, `Store`, `Root`, `Base`, `Abstract`, `Registry`, `Injector`, `Builder`
+**Classes**: `Model`, `ValueObject`, `ActiveRecord`, `Record`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`, `Container`, `Store`, `Root`, `Base`, `Abstract`, `Registry`, `Injector`, `Builder`, `Link`
 
 ## Function names
 
