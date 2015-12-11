@@ -36,17 +36,18 @@ This is a compiled
 
 > An object which can receive messages from another object (observable, mediator)
 
-**Classes**: `Observer`, `EventListener`, `MessageListener`, `Listener`, `EventHandler`, `MessageHandler`
+**Classes**: `Observer`, `EventListener`, `MessageListener`, `Listener`, `EventHandler`, `MessageHandler`, `Consumer`, `Receiver`
 
 #### Route
 
 **Classes**: `Route`, `Chan`, `Channel`
 
+
 #### Others
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`
+**Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Consumer`
 
 ## Function names
 
