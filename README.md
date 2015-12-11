@@ -16,23 +16,23 @@ Entity, Symbol
 
 **Classes**: Notifier, Dispatcher, Bus, EventBus, MessageBus, Conductor, Router 
 <br /> **Emit Methods**: notify, emit, dispatch, execute, send
-**Listen Methods**: on, addReceiver, addListener
+<br /> **Listen Methods**: on, addReceiver, addListener
 
 #### Event
 
 > An object which contains a payload emitted from another object
 
 **Classes**: Message, Event, Envelop, Action
-**Type Properties**: type, name, action
-**Payload Properties**: data, body, payload, message
+<br /> **Type Properties**: type, name, action
+<br /> **Payload Properties**: data, body, payload, message
 
 #### Observable
 
 > An object which can be listened to for events
 
 **Classes**: Observable, EventEmitter, EventDispatcher, Notifiable
-**Listen Methods**: observe, addListener, addEventListener, on
-**Unlisten Methods**: off, removeListener, removeEventListener
+<br /> **Listen Methods**: observe, addListener, addEventListener, on
+<br /> **Unlisten Methods**: off, removeListener, removeEventListener
 
 #### Observer
 
