@@ -44,6 +44,8 @@ A curated list of generic terms used in programming.
 
 ### Collections
 
+> A group of one or more items
+
 **Classes**: `Collection`, `Group`, `Vector`, `[TYPE]s` (`Items`, `Images`), `Container`
 
 ### Other Structures
