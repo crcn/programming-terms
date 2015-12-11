@@ -44,7 +44,7 @@ Entity, Symbol
 
 > Other uncategorized names
 
-Nouns: Model, ValueObject, Controller, Manager, Actor, DataTransferObject, DisplayObject, Service, Facade, Adapter
+Classes: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`
 
 ## Functional Terms
 
