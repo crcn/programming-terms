@@ -58,3 +58,7 @@ A curated list of terms used in programming.
 #### initialize
 
 `initialize`, `bootstrap`, `init`, `construct`, `configure`, `start`
+
+#### find
+
+`query`, `search`
