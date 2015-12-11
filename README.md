@@ -46,7 +46,7 @@ A curated list of generic terms used in programming.
 
 > A group of one or more items
 
-**Classes**: `Collection`, `Group`, `Vector`, `[TYPE]s` (`Items`, `Images`), `Container`
+**Classes**: `Collection`, `Group`, `Vector`, `[TYPE]s` (`Items`, `Images`), `Container`, `Array`
 
 ### Other Structures
 
