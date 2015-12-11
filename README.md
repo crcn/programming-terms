@@ -8,7 +8,7 @@ Object-oriented terms.
 
 > A representation of something
 
-Classes: `Entity`, `Symbol`, `Actor`, `Item`
+Classes: `Entity`, `Symbol`, `Actor`, `Item`, `Artifact`
 
 #### Mediator
 
