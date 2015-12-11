@@ -1,4 +1,4 @@
-This is a compiled
+This is a compiled list of words, and their associated synonyms in programming terms. 
 
 ## Class names
 
