@@ -1,8 +1,6 @@
 This is a compiled list of terms to help you with naming things for you application. 
 
-## OO terms
-
-Object-oriented terms. 
+## Class names
 
 #### Object
 
@@ -46,6 +44,12 @@ Object-oriented terms.
 
 **Classes**: `Model`, `ValueObject`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`
 
-## Functional Terms
+## Function names
 
+#### transform
 
+`transform`, `map`, `coerce`, `alter`, `convert`, `mutate`, `morph`
+
+#### initialize
+
+`initialize`, `bootstrap`, `init`, `construct`, `configure`
