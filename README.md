@@ -12,7 +12,7 @@ A curated list of generic terms used in programming.
 
 > An object which transfers a message between a sender & a receiver
 
-**Classes**: `Notifier`, `Dispatcher`, `Bus`, `EventBus`, `MessageBus`, `Conductor`, `Router`, `Invoker`, `Scheduler` 
+**Classes**: `Notifier`, `Dispatcher`, `Bus`, `EventBus`, `MessageBus`, `Conductor`, `Router`, `Invoker`, `Scheduler`, `MessageBroker`
 <br /> **Emit Methods**: `notify`, `emit`, `dispatch`, `execute`, `send`
 <br /> **Listen Methods**: `on`, `addReceiver`, `addListener`
 
