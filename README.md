@@ -56,7 +56,7 @@ A curated list of generic terms used in programming.
 
 > Other uncategorized names
 
-**Classes**: `Model`, `ValueObject`, `ActiveRecord`, `Record`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`, `Container`, `Store`, `Root`, `Base`, `Abstract`, `Registry`, `Injector`, `Builder`, `Link`
+**Classes**: `Model`, `ValueObject`, `ActiveRecord`, `Record`, `Controller`, `Manager`, `Actor`, `DataTransferObject`, `DisplayObject`, `Service`, `Facade`, `Adapter`, `Source`, `Client`, `Type`, `Container`, `Store`, `Root`, `Base`, `Abstract`, `Registry`, `Injector`, `Builder`, `Link`, `Expression`
 
 ## Function names
 
