@@ -52,6 +52,12 @@ A curated list of generic terms used in programming.
 
 **Classes**: `Node`, `Tree`
 
+### Plugin
+
+**Classes**: `Plugin`, `Extension`, `module`
+**install methods**: `use`, `install`, `usePlugin`, `addPlugin`
+
+
 ### Others
 
 > Other uncategorized names
