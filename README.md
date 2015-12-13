@@ -55,7 +55,7 @@ A curated list of generic terms used in programming.
 ### Plugin
 
 **Classes**: `Plugin`, `Extension`, `module`
-**install methods**: `use`, `install`, `usePlugin`, `addPlugin`
+<br />**install methods**: `use`, `install`, `usePlugin`, `addPlugin`
 
 
 ### Others
