@@ -76,4 +76,4 @@ A curated list of generic terms used in programming.
 
 ### find
 
-`query`, `search`
+`query`, `search`, `traverse`
