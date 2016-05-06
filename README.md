@@ -29,7 +29,7 @@ A curated list of generic terms used in programming.
 > An object which can be listened to for events
 
 **Classes**: `Observable`, `EventEmitter`, `EventDispatcher`, `Notifiable`
-<br /> **Listen Methods**: `observe`, `addListener`, `addEventListener`, `on`
+<br /> **Listen Methods**: `observe`, `addListener`, `addEventListener`, `on`, `subscribe`
 <br /> **Unlisten Methods**: `off`, `removeListener`, `removeEventListener`
 
 ### Observer
